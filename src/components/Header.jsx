@@ -47,8 +47,8 @@ const Header = () => {
                             </Button>
 
                             <Button onClick={onClose} colorScheme='purple' variant={'outline'} >
-                                <Link to={'/singup onClick={onClose}}'}>
-                                    Sing Up
+                                <Link to={'/signup'} onClick={onClose}>
+                                    Sign Up
                                 </Link>
                             </Button>
 
